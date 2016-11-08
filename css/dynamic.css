@@ -1,0 +1,19 @@
+body {
+  background: url('../img/sl_bg.png');
+  background-color: #111111;
+}
+
+.item {
+  position: absolute;
+  width: 150px;
+  height: 130px;
+  background-color: rgb(255,255,81);
+}
+
+#container {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
